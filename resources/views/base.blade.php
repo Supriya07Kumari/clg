@@ -9,7 +9,7 @@
 </head>
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-danger">
-        <a href="{{route('homePage')}}" class="navbar-brand">College Finder</a>
+        <a href="{{route('homePage')}}" class="navbar-brand">CollegeFinder</a>
         <ul class="navbar-nav ml-auto">
            <li class="nav-link"><a href="{{route('insertPage')}}" class="btn btn-outline-light">Insert</a></li>
         </ul>
